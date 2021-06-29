@@ -6,4 +6,4 @@ Also, you can find my Linkedin at: www.linkedin.com/in/michaelzheng-
 
 Some ideas for projects that I want to code in the future: Banking system (C programming), Something using Bloomberg API (python), options strategies app w/ real options data (either python or c++), random walk price prediction algorithm, "value stock filter" based on technical analysis of RSI, SMA 7 day, and MACD with text notification capabilities
 
-Currently working on: Bloomberg Terminal-esque web application that allows user to enter in certain stock ticker and outputs current information such as DCF Model valuation price, key profitability and value metrics, etc. Will build using Django and React. 
+Currently working on: something to do with React (learning the framework)
