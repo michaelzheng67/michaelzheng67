@@ -1,6 +1,6 @@
 Hello, my name is Michael Zheng and I'm currently a student at the University of Waterloo studying Computer Science and Finance (CFM).
 
-I started this github because I wanted to display coding projects I made. I'm especially interested in the field of quantitative finance and so I'm mainly working on building quantitative models that have an impact when measuring equities. I'm also very much interested in data analytics / data science, machine and deep learning, natural language processing, and time series analysis. 
+I started this github because I wanted to display coding projects I made. I'm especially interested in the field of quantitative finance and so I'm mainly working on building quantitative models that have an impact when measuring equities. I'm also interested in data science and public/private equities. My repositories include a mix of full-on projects that attempt to solve a problem / service along with smaller-scaled projects meant to help me practice my skills.
 
 Also, you can find my Linkedin at: www.linkedin.com/in/michaelzheng-
 
