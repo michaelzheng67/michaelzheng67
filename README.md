@@ -6,6 +6,6 @@ Also, you can find my Linkedin at: www.linkedin.com/in/michaelzheng-
 
 Some ideas for projects that I want to code in the future: Something using Bloomberg API (python), options strategies app w/ real options data (either python or c++), random walk price prediction algorithm, "value stock filter" based on technical analysis of RSI, SMA 7 day, and MACD with text notification capabilities, something to do with ruby on rails (learning), basketball ML app (swift)
 
-Currently working on: C++ Banking API 
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelzheng67)](https://github.com/michaelzheng67/github-readme-stats)
