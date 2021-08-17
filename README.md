@@ -4,7 +4,7 @@ I started this github because I wanted to display coding projects I made. I'm es
 
 Also, you can find my Linkedin at: www.linkedin.com/in/michaelzheng-
 
-Some ideas for projects that I want to code in the future: Something using Bloomberg API (python), options strategies app w/ real options data (either python or c++), random walk price prediction algorithm, "value stock filter" based on technical analysis of RSI, SMA 7 day, and MACD with text notification capabilities, something to do with ruby on rails (learning), basketball ML app (swift)
+Some ideas for projects that I want to code in the future: Something using Bloomberg API (python), options strategies app w/ real options data (either python or c++), random walk price prediction algorithm, binomial tree model with ruby on rails as framework, basketball ML app (swift)
 
 
 
