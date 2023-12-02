@@ -6,4 +6,4 @@ You can find my Linkedin at: www.linkedin.com/in/michaelzheng-
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelzheng67)](https://github.com/michaelzheng67/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelzheng67)](https://github.com/anuraghazra/github-readme-stats)
