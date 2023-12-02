@@ -5,5 +5,4 @@ I'm especially interested in the field of distributed systems and multithreaded 
 You can find my Linkedin at: www.linkedin.com/in/michaelzheng-
 
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelzheng67)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelzheng67)](https://github.com/anuraghazra/github-readme-stats)
