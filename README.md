@@ -1,4 +1,4 @@
-Hello, my name is Michael Zheng and I'm currently a student at the University of Waterloo studying Computer Science.
+Hello, my name is Michael Zheng and I'm a student at the University of Waterloo studying Computer Science.
 
 I'm especially interested in distributed and multithreaded applications.
 
