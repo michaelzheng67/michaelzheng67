@@ -6,6 +6,6 @@ Currently a software engineer @ X (Twitter).
 
 You can find my Linkedin at: www.linkedin.com/in/michaelzheng-
 
-Open source contributor to:
-@yugabyte-db
+Open source contributor to: \
+yugabyte-db https://github.com/yugabyte/yugabyte-db
 
